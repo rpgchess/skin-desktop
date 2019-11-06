@@ -1,0 +1,10 @@
+const
+  // ID's Commands
+  ID_EXIT = 100;
+  ID_APPLYSKIN = 110;
+  ID_DLG_DESKADD = 111;
+  ID_BTN_DESKADD = 112;
+  ID_EDT_DESKPATH = 113;
+  ID_BTN_NEXT = 10;
+  ID_BTN_PREV = 11;
+  ID_BTN_DISPLAY = 12;
